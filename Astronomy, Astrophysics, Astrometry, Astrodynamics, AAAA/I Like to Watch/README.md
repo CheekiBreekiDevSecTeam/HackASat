@@ -1,6 +1,7 @@
 # Task
 When we connecting with netcat, we receiving the following.
 
+```sh
 We've captured data from a satellite that shows a flag located at the base of the Washington Monument.
 The image was taken on March 26th, 2020, at 21:54:06
 The satellite we used was: 
@@ -11,3 +12,6 @@ REDACT
 
 Use a Google Earth Pro KML file to 'Link' to http://3.14.9.244:32438/cgi-bin/HSCKML.py
 and 'LookAt' that spot from where the satellite when it took the photo and get us that flag!
+```
+It's time we connectig the IP and PORT is changing.
+
