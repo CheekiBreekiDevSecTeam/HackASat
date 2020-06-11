@@ -1,5 +1,5 @@
 ### Star images
-![](stars1.png)
+![](stars.png)
 ![](stars2.png)
 ![](stars3.png)
 ![](stars4.png)
