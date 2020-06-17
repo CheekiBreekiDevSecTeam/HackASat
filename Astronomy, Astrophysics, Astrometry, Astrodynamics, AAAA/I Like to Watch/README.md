@@ -13,5 +13,4 @@ REDACT
 Use a Google Earth Pro KML file to 'Link' to http://3.14.9.244:32438/cgi-bin/HSCKML.py
 and 'LookAt' that spot from where the satellite when it took the photo and get us that flag!
 ```
-It's time we connectig the IP and PORT is changing.
-
+Each time we connecting the IP and PORT is changing.
